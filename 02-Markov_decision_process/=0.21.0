@@ -1,0 +1,3 @@
+Requirement already up-to-date: gym in /home/alisa/.local/lib/python3.8/site-packages (0.21.0)
+Requirement already satisfied, skipping upgrade: cloudpickle>=1.2.0 in /home/alisa/anaconda3/lib/python3.8/site-packages (from gym) (1.6.0)
+Requirement already satisfied, skipping upgrade: numpy>=1.18.0 in /home/alisa/.local/lib/python3.8/site-packages (from gym) (1.21.4)
